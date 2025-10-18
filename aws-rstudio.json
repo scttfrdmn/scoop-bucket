@@ -1,19 +1,19 @@
 {
-    "version": "0.5.1",
+    "version": "0.6.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/scttfrdmn/aws-ide/releases/download/v0.5.1/aws-rstudio_Windows_x86_64.zip",
+            "url": "https://github.com/scttfrdmn/aws-ide/releases/download/v0.6.0/aws-rstudio_Windows_x86_64.zip",
             "bin": [
                 "aws-rstudio.exe"
             ],
-            "hash": "61a9d748f4213a85d7210b97a74216a546565ed3032907ffb31401febfbb307f"
+            "hash": "93ab5c5080ea7880a3016c0abe5898e7303220dcbaaa9ac17a85f1b75f802902"
         },
         "arm64": {
-            "url": "https://github.com/scttfrdmn/aws-ide/releases/download/v0.5.1/aws-rstudio_Windows_arm64.zip",
+            "url": "https://github.com/scttfrdmn/aws-ide/releases/download/v0.6.0/aws-rstudio_Windows_arm64.zip",
             "bin": [
                 "aws-rstudio.exe"
             ],
-            "hash": "3e7910275603239696def787d6d8b58f430e0e709bc8f5f19a10f7f3ac347a5a"
+            "hash": "59fcf38c3df51437085eb0a291535ed03fd19de59496f0cfbe2425da4f2212b8"
         }
     },
     "homepage": "https://github.com/scttfrdmn/aws-ide",
