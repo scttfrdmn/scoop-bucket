@@ -1,19 +1,19 @@
 {
-    "version": "0.6.2",
+    "version": "0.6.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/scttfrdmn/aws-ide/releases/download/v0.6.2/aws-jupyter_Windows_x86_64.zip",
+            "url": "https://github.com/scttfrdmn/aws-ide/releases/download/v0.6.3/aws-jupyter_Windows_x86_64.zip",
             "bin": [
                 "aws-jupyter.exe"
             ],
-            "hash": "d16893c9a9f86b1dd68ad2523bc61525ac002075cba4fab22ad1f504bf25db03"
+            "hash": "7ef340a5e7f352cb4238fb7bd1ed658016523c87e076ebd25f35c5fd77f35d85"
         },
         "arm64": {
-            "url": "https://github.com/scttfrdmn/aws-ide/releases/download/v0.6.2/aws-jupyter_Windows_arm64.zip",
+            "url": "https://github.com/scttfrdmn/aws-ide/releases/download/v0.6.3/aws-jupyter_Windows_arm64.zip",
             "bin": [
                 "aws-jupyter.exe"
             ],
-            "hash": "41668c22b0d29ca6015d7047f66438abf10a10c626d6bf4852eb1df473d04d1f"
+            "hash": "f5afcf583dd1aef4852e2481147e6d3a406aa347046314c4141d8cfa8114b1fc"
         }
     },
     "homepage": "https://github.com/scttfrdmn/aws-ide",
