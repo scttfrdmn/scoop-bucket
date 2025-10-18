@@ -1,0 +1,22 @@
+{
+    "version": "0.5.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/scttfrdmn/aws-ide/releases/download/v0.5.1/aws-vscode_Windows_x86_64.zip",
+            "bin": [
+                "aws-vscode.exe"
+            ],
+            "hash": "1820345d56182e8bda080e57f86557a643e36406fba55c619de4900b09587825"
+        },
+        "arm64": {
+            "url": "https://github.com/scttfrdmn/aws-ide/releases/download/v0.5.1/aws-vscode_Windows_arm64.zip",
+            "bin": [
+                "aws-vscode.exe"
+            ],
+            "hash": "609eb3ae5505edd1d757ac63ee0d47102f53b2b13009a6bffb9908831b1f7dff"
+        }
+    },
+    "homepage": "https://github.com/scttfrdmn/aws-ide",
+    "license": "Apache-2.0",
+    "description": "CLI tool for launching VSCode Server instances on AWS EC2 Graviton processors (Beta)"
+}
