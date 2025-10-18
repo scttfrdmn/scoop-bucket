@@ -1,0 +1,22 @@
+{
+    "version": "0.5.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/scttfrdmn/aws-ide/releases/download/v0.5.1/aws-jupyter_Windows_x86_64.zip",
+            "bin": [
+                "aws-jupyter.exe"
+            ],
+            "hash": "e7432ad584dd1cedf3d5faf5258cd9c7dbcf0e6a6cb172854716394e14136989"
+        },
+        "arm64": {
+            "url": "https://github.com/scttfrdmn/aws-ide/releases/download/v0.5.1/aws-jupyter_Windows_arm64.zip",
+            "bin": [
+                "aws-jupyter.exe"
+            ],
+            "hash": "0fb4283d09c638ab869634f73f2f20ac79115ecf36ba27cfb91c40e16df0ae3c"
+        }
+    },
+    "homepage": "https://github.com/scttfrdmn/aws-ide",
+    "license": "Apache-2.0",
+    "description": "CLI tool for launching Jupyter Lab instances on AWS EC2 Graviton processors"
+}
