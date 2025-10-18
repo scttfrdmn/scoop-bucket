@@ -1,0 +1,22 @@
+{
+    "version": "0.5.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/scttfrdmn/aws-ide/releases/download/v0.5.1/aws-rstudio_Windows_x86_64.zip",
+            "bin": [
+                "aws-rstudio.exe"
+            ],
+            "hash": "61a9d748f4213a85d7210b97a74216a546565ed3032907ffb31401febfbb307f"
+        },
+        "arm64": {
+            "url": "https://github.com/scttfrdmn/aws-ide/releases/download/v0.5.1/aws-rstudio_Windows_arm64.zip",
+            "bin": [
+                "aws-rstudio.exe"
+            ],
+            "hash": "3e7910275603239696def787d6d8b58f430e0e709bc8f5f19a10f7f3ac347a5a"
+        }
+    },
+    "homepage": "https://github.com/scttfrdmn/aws-ide",
+    "license": "Apache-2.0",
+    "description": "CLI tool for launching RStudio Server instances on AWS EC2 Graviton processors"
+}
