@@ -1,19 +1,19 @@
 {
-    "version": "0.7.0",
+    "version": "0.7.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/scttfrdmn/aws-ide/releases/download/v0.7.0/aws-vscode_Windows_x86_64.zip",
+            "url": "https://github.com/scttfrdmn/aws-ide/releases/download/v0.7.1/aws-vscode_Windows_x86_64.zip",
             "bin": [
                 "aws-vscode.exe"
             ],
-            "hash": "1f48641de74187d5f0ffbc48b6d7f2040004d7a9684a6ea4b49bd7a1b29279b0"
+            "hash": "72a1cceb212d19960ac6c5dec2ca19dfc38833bb41d35301b289a20a6b3fd6c8"
         },
         "arm64": {
-            "url": "https://github.com/scttfrdmn/aws-ide/releases/download/v0.7.0/aws-vscode_Windows_arm64.zip",
+            "url": "https://github.com/scttfrdmn/aws-ide/releases/download/v0.7.1/aws-vscode_Windows_arm64.zip",
             "bin": [
                 "aws-vscode.exe"
             ],
-            "hash": "fa02eb5c59be257d0199f325c00757aaa22e1b6be4781a7efd928b0feabef04e"
+            "hash": "9058fae1d618a705d493a4d7f21e9e2a1f685bac0ff1c559238a34c1bdb0f6ea"
         }
     },
     "homepage": "https://github.com/scttfrdmn/aws-ide",
