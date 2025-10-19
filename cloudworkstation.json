@@ -1,21 +1,21 @@
 {
-    "version": "0.5.4",
+    "version": "0.5.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/scttfrdmn/cloudworkstation/releases/download/v0.5.4/cloudworkstation_0.5.4_windows_x86_64.zip",
+            "url": "https://github.com/scttfrdmn/cloudworkstation/releases/download/v0.5.5/cloudworkstation_0.5.5_windows_x86_64.zip",
             "bin": [
                 "cws.exe",
                 "cwsd.exe"
             ],
-            "hash": "3ec3cb2d24726ed3ab06529a7058f2e8eaf3378ae976c0e821cd578b98bbc537"
+            "hash": "7129f4469116bb8837e4c45f371ce1ad9a73b26a7233da2ef69b2bd210ca2be4"
         },
         "arm64": {
-            "url": "https://github.com/scttfrdmn/cloudworkstation/releases/download/v0.5.4/cloudworkstation_0.5.4_windows_arm64.zip",
+            "url": "https://github.com/scttfrdmn/cloudworkstation/releases/download/v0.5.5/cloudworkstation_0.5.5_windows_arm64.zip",
             "bin": [
-                "cws.exe",
-                "cwsd.exe"
+                "cwsd.exe",
+                "cws.exe"
             ],
-            "hash": "4fbb732588a24be4fc130150865073300f841aa137147d4c84d830be3e8cd0b1"
+            "hash": "3b526d656bd9c451f0cd37007df5f6b867830d2e6418a87402728c2664edcf20"
         }
     },
     "homepage": "https://github.com/scttfrdmn/cloudworkstation",
