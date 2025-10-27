@@ -1,0 +1,28 @@
+{
+    "version": "0.5.7",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/scttfrdmn/prism/releases/download/v0.5.7/prism_0.5.7_windows_x86_64.zip",
+            "bin": [
+                "prism.exe",
+                "prismd.exe"
+            ],
+            "hash": "0ae5c8872de2fc56fc266a492d5f4fb199e9b0149f07d7fb66ae6bb3337beda8"
+        },
+        "arm64": {
+            "url": "https://github.com/scttfrdmn/prism/releases/download/v0.5.7/prism_0.5.7_windows_arm64.zip",
+            "bin": [
+                "prism.exe",
+                "prismd.exe"
+            ],
+            "hash": "bd0aceb2d71774fa676770646af6359bc172582b0b88a238f71bcde6f3806e28"
+        }
+    },
+    "homepage": "https://github.com/scttfrdmn/prism",
+    "license": "MIT",
+    "description": "CLI tool for launching pre-configured cloud workstations for academic research",
+    "post_install": [
+        "Write-Host 'Prism installed successfully!'",
+        "Write-Host 'Run: prism --help to get started'"
+    ]
+}
