@@ -7,7 +7,7 @@
                 "prism.exe",
                 "prismd.exe"
             ],
-            "hash": "6f3374e6b45d371d642145a7019d66f51fe7d7239bbd7ffc1a356d7792e214a2"
+            "hash": "7f36bbb42c80010e9b2a2d7f188b229a9439862353bba2bb63f8492ad4fd30ae"
         },
         "arm64": {
             "url": "https://github.com/scttfrdmn/prism/releases/download/v0.5.8/prism_0.5.8_windows_arm64.zip",
@@ -15,7 +15,7 @@
                 "prism.exe",
                 "prismd.exe"
             ],
-            "hash": "87e0b419f79e3ebf5eca99cd5e4764a4eb4efc882a4b0b78379f2ed003aadcef"
+            "hash": "72b5f62b5bacc6d802473c753d17caef1030e3ffa33c73002661435389c5b306"
         }
     },
     "homepage": "https://github.com/scttfrdmn/prism",
