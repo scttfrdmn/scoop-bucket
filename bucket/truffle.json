@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/scttfrdmn/mycelium/releases/download/v0.1.0/truffle_0.1.0_windows_amd64.zip",
+            "bin": [
+                "truffle.exe"
+            ],
+            "hash": "21614b1facf1b45b1569fdcd248839870dca1f44309e6aa9a185492888e97bb2"
+        },
+        "arm64": {
+            "url": "https://github.com/scttfrdmn/mycelium/releases/download/v0.1.0/truffle_0.1.0_windows_arm64.zip",
+            "bin": [
+                "truffle.exe"
+            ],
+            "hash": "63bdb05bb4b7d680ff46ad3c7b4ec69fe53a4f46c3b704713f6bd302334070a0"
+        }
+    },
+    "homepage": "https://github.com/scttfrdmn/mycelium",
+    "license": "MIT",
+    "description": "Find and discover AWS EC2 instance types"
+}
