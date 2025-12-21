@@ -6,14 +6,14 @@
             "bin": [
                 "spawn.exe"
             ],
-            "hash": "b6fffcebe9f06284ee493cc76b53ab7c16c9fa1b58bcbffcd9634ee0703d3f53"
+            "hash": "61cfb5e258aeed492395d49ec77c74d417a1939e2b87936f48e12b25e6a66bc3"
         },
         "arm64": {
             "url": "https://github.com/scttfrdmn/mycelium/releases/download/v0.1.0/spawn_0.1.0_windows_arm64.zip",
             "bin": [
                 "spawn.exe"
             ],
-            "hash": "38bbe21a564390e28809216343a8d871992f0f22d5adb6139aed42db474c0351"
+            "hash": "869630ccbddb868b23cd011dda18f457c3a995a63e583e35d1853bbdaacfc9c1"
         }
     },
     "homepage": "https://github.com/scttfrdmn/mycelium",
