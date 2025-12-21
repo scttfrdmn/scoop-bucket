@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/scttfrdmn/mycelium/releases/download/v0.1.0/spawn_0.1.0_windows_amd64.zip",
+            "bin": [
+                "spawn.exe"
+            ],
+            "hash": "b6fffcebe9f06284ee493cc76b53ab7c16c9fa1b58bcbffcd9634ee0703d3f53"
+        },
+        "arm64": {
+            "url": "https://github.com/scttfrdmn/mycelium/releases/download/v0.1.0/spawn_0.1.0_windows_arm64.zip",
+            "bin": [
+                "spawn.exe"
+            ],
+            "hash": "38bbe21a564390e28809216343a8d871992f0f22d5adb6139aed42db474c0351"
+        }
+    },
+    "homepage": "https://github.com/scttfrdmn/mycelium",
+    "license": "MIT",
+    "description": "Launch ephemeral AWS EC2 instances effortlessly"
+}
