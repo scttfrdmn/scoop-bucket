@@ -1,22 +1,25 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/scttfrdmn/mycelium/releases/download/v0.1.0/spawn_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/scttfrdmn/mycelium/releases/download/v0.1.1/spawn_0.1.1_windows_amd64.tar.gz",
             "bin": [
                 "spawn.exe"
             ],
-            "hash": "61cfb5e258aeed492395d49ec77c74d417a1939e2b87936f48e12b25e6a66bc3"
+            "hash": "aef97426b9ac88d3a2b8d7565dbfe8bc257d61799ac48b533e043863cdd223ec"
         },
         "arm64": {
-            "url": "https://github.com/scttfrdmn/mycelium/releases/download/v0.1.0/spawn_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/scttfrdmn/mycelium/releases/download/v0.1.1/spawn_0.1.1_windows_arm64.tar.gz",
             "bin": [
                 "spawn.exe"
             ],
-            "hash": "869630ccbddb868b23cd011dda18f457c3a995a63e583e35d1853bbdaacfc9c1"
+            "hash": "931e18d4956ba189fcb7375d8192e9555bc1c4fe5b37811d92629a95f24e8bd8"
         }
     },
     "homepage": "https://github.com/scttfrdmn/mycelium",
     "license": "MIT",
-    "description": "Launch ephemeral AWS EC2 instances effortlessly"
+    "description": "Launch ephemeral AWS EC2 instances effortlessly",
+    "depends": [
+        "scttfrdmn/tap/truffle"
+    ]
 }
