@@ -1,21 +1,21 @@
 {
-    "version": "0.6.1",
+    "version": "0.6.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/scttfrdmn/prism/releases/download/v0.6.1/prism_0.6.1_windows_x86_64.zip",
+            "url": "https://github.com/scttfrdmn/prism/releases/download/v0.6.2/prism_0.6.2_windows_x86_64.zip",
             "bin": [
                 "prismd.exe",
                 "prism.exe"
             ],
-            "hash": "09617c5938866cb39c511a881b34ac774db9f316cb65d145e9808d50f8c22095"
+            "hash": "bff77db67e74ee44d18abe2e69cbf080d034e889b134863fe3c3d979cc31b558"
         },
         "arm64": {
-            "url": "https://github.com/scttfrdmn/prism/releases/download/v0.6.1/prism_0.6.1_windows_arm64.zip",
+            "url": "https://github.com/scttfrdmn/prism/releases/download/v0.6.2/prism_0.6.2_windows_arm64.zip",
             "bin": [
-                "prism.exe",
-                "prismd.exe"
+                "prismd.exe",
+                "prism.exe"
             ],
-            "hash": "0ae40ff047af30d888f8e029f8d848a69fd82edc5d84e8258b5ddc81f296e5dc"
+            "hash": "f627e620501013132faa9f08c9efcc2b56373998c6c84ecd585d8b5b4f3a0b78"
         }
     },
     "homepage": "https://github.com/scttfrdmn/prism",
