@@ -1,19 +1,19 @@
 {
-    "version": "0.7.0",
+    "version": "0.8.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/scttfrdmn/mycelium/releases/download/v0.7.0/spawn_0.7.0_windows_amd64.tar.gz",
+            "url": "https://github.com/scttfrdmn/mycelium/releases/download/v0.8.0/spawn_0.8.0_windows_amd64.tar.gz",
             "bin": [
                 "spawn.exe"
             ],
-            "hash": "dba1a25d64e26eb8baae6538907a3c2bf0d590b80c27e178853aef738f40ce36"
+            "hash": "3c3cdb3b72c1595e8d8b9271626b2da65647af7407210030dc2ba100e628d823"
         },
         "arm64": {
-            "url": "https://github.com/scttfrdmn/mycelium/releases/download/v0.7.0/spawn_0.7.0_windows_arm64.tar.gz",
+            "url": "https://github.com/scttfrdmn/mycelium/releases/download/v0.8.0/spawn_0.8.0_windows_arm64.tar.gz",
             "bin": [
                 "spawn.exe"
             ],
-            "hash": "8fe16223ebf35ccddb0b46a4e472a62b54d01ed5960b0132d0ddf78a7fbfc6f0"
+            "hash": "7f569e7f8481ef7773ce869d25b390cfd2d78cd253a7cd450a33516c23203011"
         }
     },
     "homepage": "https://github.com/scttfrdmn/mycelium",
