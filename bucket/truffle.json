@@ -1,19 +1,19 @@
 {
-    "version": "0.21.0",
+    "version": "0.22.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/scttfrdmn/mycelium/releases/download/v0.21.0/truffle_0.21.0_windows_amd64.tar.gz",
+            "url": "https://github.com/scttfrdmn/mycelium/releases/download/v0.22.0/truffle_0.22.0_windows_amd64.tar.gz",
             "bin": [
                 "truffle.exe"
             ],
-            "hash": "cfd5358bb3bdf479c664c24a531c3945d1bf8e5d4e2fb99ff78196ca979c0d6d"
+            "hash": "78b0608533b3506df21375f92f36911dc09277dfbd3e2d24ff08601e487a7da7"
         },
         "arm64": {
-            "url": "https://github.com/scttfrdmn/mycelium/releases/download/v0.21.0/truffle_0.21.0_windows_arm64.tar.gz",
+            "url": "https://github.com/scttfrdmn/mycelium/releases/download/v0.22.0/truffle_0.22.0_windows_arm64.tar.gz",
             "bin": [
                 "truffle.exe"
             ],
-            "hash": "07dda7b7544db4ca34da7ee1524e777b22849cac95acdf1989eec8492799aeb4"
+            "hash": "c3765e3d3588529779bd043fff554e2bd6dff58431ab7290328607ad52248b95"
         }
     },
     "homepage": "https://github.com/scttfrdmn/mycelium",
