@@ -6,14 +6,14 @@
             "bin": [
                 "truffle.exe"
             ],
-            "hash": "78b0608533b3506df21375f92f36911dc09277dfbd3e2d24ff08601e487a7da7"
+            "hash": "5fd29b1b998f314a2483aad653151388d6c25cf8ae9cf7f98cd977ed8b7b4e16"
         },
         "arm64": {
             "url": "https://github.com/scttfrdmn/mycelium/releases/download/v0.22.0/truffle_0.22.0_windows_arm64.tar.gz",
             "bin": [
                 "truffle.exe"
             ],
-            "hash": "c3765e3d3588529779bd043fff554e2bd6dff58431ab7290328607ad52248b95"
+            "hash": "c0968b351c458dccab4178b990748e65167cb2da15187a12ee544a18cb94ba5d"
         }
     },
     "homepage": "https://github.com/scttfrdmn/mycelium",
