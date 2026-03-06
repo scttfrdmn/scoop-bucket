@@ -2,24 +2,24 @@
     "version": "0.24.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/scttfrdmn/mycelium/releases/download/v0.24.2/spawn_0.24.2_windows_amd64.tar.gz",
+            "url": "https://github.com/scttfrdmn/spore-host/releases/download/v0.24.2/spawn_0.24.2_windows_amd64.tar.gz",
             "bin": [
                 "spawn.exe"
             ],
             "hash": "49a75b2dbe5371bfecd3d4aeeb65f5947fa0c86e2dee14b0e4d80d25b2d778ee"
         },
         "arm64": {
-            "url": "https://github.com/scttfrdmn/mycelium/releases/download/v0.24.2/spawn_0.24.2_windows_arm64.tar.gz",
+            "url": "https://github.com/scttfrdmn/spore-host/releases/download/v0.24.2/spawn_0.24.2_windows_arm64.tar.gz",
             "bin": [
                 "spawn.exe"
             ],
             "hash": "3db78fa14c8b528175df48fffd69229784861ec78fd604e7f411c54778189ce7"
         }
     },
-    "homepage": "https://github.com/scttfrdmn/mycelium",
+    "homepage": "https://github.com/scttfrdmn/spore-host",
     "license": "MIT",
     "description": "Launch ephemeral AWS EC2 instances effortlessly",
     "depends": [
-        "scttfrdmn/tap/truffle"
+        "scttfrdmn/truffle"
     ]
 }
