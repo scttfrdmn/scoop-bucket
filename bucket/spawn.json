@@ -1,23 +1,23 @@
 {
-    "version": "0.24.2",
+    "version": "0.26.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/scttfrdmn/spore-host/releases/download/v0.24.2/spawn_0.24.2_windows_amd64.tar.gz",
+            "url": "https://github.com/scttfrdmn/spore-host/releases/download/v0.26.0/spawn_0.26.0_windows_amd64.tar.gz",
             "bin": [
                 "spawn.exe"
             ],
-            "hash": "49a75b2dbe5371bfecd3d4aeeb65f5947fa0c86e2dee14b0e4d80d25b2d778ee"
+            "hash": "ab6dbc31e45deff593bb2c0cb0abbd58fd32802a35544f0d5e1a3b4cbe826a56"
         },
         "arm64": {
-            "url": "https://github.com/scttfrdmn/spore-host/releases/download/v0.24.2/spawn_0.24.2_windows_arm64.tar.gz",
+            "url": "https://github.com/scttfrdmn/spore-host/releases/download/v0.26.0/spawn_0.26.0_windows_arm64.tar.gz",
             "bin": [
                 "spawn.exe"
             ],
-            "hash": "3db78fa14c8b528175df48fffd69229784861ec78fd604e7f411c54778189ce7"
+            "hash": "75f464c3a19761a8c4dc1bf8c55c928f40b4a06a678d4ac159de0120b7ead3dc"
         }
     },
     "homepage": "https://github.com/scttfrdmn/spore-host",
-    "license": "MIT",
+    "license": "Apache-2.0",
     "description": "Launch ephemeral AWS EC2 instances effortlessly",
     "depends": [
         "scttfrdmn/truffle"
