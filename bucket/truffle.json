@@ -1,19 +1,19 @@
 {
-    "version": "0.31.9",
+    "version": "0.31.10",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/scttfrdmn/spore-host/releases/download/v0.31.9/truffle_0.31.9_windows_amd64.tar.gz",
+            "url": "https://github.com/scttfrdmn/spore-host/releases/download/v0.31.10/truffle_0.31.10_windows_amd64.tar.gz",
             "bin": [
                 "truffle.exe"
             ],
-            "hash": "a828ad52262d703553bb6cf61bbab3e86c60d73bada7c5fb13702e119bec905f"
+            "hash": "6762597eb43becb5643596a9097a72cbd4cfaec6a3bbd40e97cd1057d43fb5f9"
         },
         "arm64": {
-            "url": "https://github.com/scttfrdmn/spore-host/releases/download/v0.31.9/truffle_0.31.9_windows_arm64.tar.gz",
+            "url": "https://github.com/scttfrdmn/spore-host/releases/download/v0.31.10/truffle_0.31.10_windows_arm64.tar.gz",
             "bin": [
                 "truffle.exe"
             ],
-            "hash": "f0c5eafae72652b1c94228461968e09fe66c6716032e7b2e4062d9bc6fda2799"
+            "hash": "0ec4e1587ef8d3cfd0d79cd389d384414ea0d06bc74b3ccac7ea16708b8905bc"
         }
     },
     "homepage": "https://github.com/scttfrdmn/spore-host",
