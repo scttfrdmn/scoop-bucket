@@ -1,0 +1,25 @@
+{
+    "version": "0.31.10",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/scttfrdmn/spore-host/releases/download/v0.31.10/lagotto_0.31.10_windows_amd64.tar.gz",
+            "bin": [
+                "lagotto.exe"
+            ],
+            "hash": "0a4e26129799f03d39ab92d24d9eec8f6f3327b0f66373bc520d85b7faaa0af6"
+        },
+        "arm64": {
+            "url": "https://github.com/scttfrdmn/spore-host/releases/download/v0.31.10/lagotto_0.31.10_windows_arm64.tar.gz",
+            "bin": [
+                "lagotto.exe"
+            ],
+            "hash": "841d11be8c98abb0e10133353bcab537a4bac46520b9a906aac67a87bf14f07e"
+        }
+    },
+    "homepage": "https://github.com/scttfrdmn/spore-host",
+    "license": "Apache-2.0",
+    "description": "Watch for EC2 instance capacity across regions",
+    "depends": [
+        "scttfrdmn/truffle"
+    ]
+}
