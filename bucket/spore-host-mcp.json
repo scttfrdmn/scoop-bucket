@@ -6,14 +6,14 @@
             "bin": [
                 "spore-host-mcp.exe"
             ],
-            "hash": "1655becad5df7735ac1e60c49859ac81aeadde2bcbd4e4b2198e0ef7199f6e1c"
+            "hash": "51eb37a9f9a10153cccca6f09c1f85541b6bb042b45f422bbc18664544d9ae78"
         },
         "arm64": {
             "url": "https://github.com/spore-host/spore-host/releases/download/v0.34.8/spore-host-mcp_0.34.8_windows_arm64.tar.gz",
             "bin": [
                 "spore-host-mcp.exe"
             ],
-            "hash": "094b673f0ac4618d2898c0121913d53d9849b0edbe79c618e776f2d929b1208c"
+            "hash": "820da07e11bdf5c2fe183af93ade9b375a74fae924f00fb149a038bb350b42ab"
         }
     },
     "homepage": "https://github.com/spore-host/spore-host",
