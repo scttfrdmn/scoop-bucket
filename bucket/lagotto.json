@@ -6,14 +6,14 @@
             "bin": [
                 "lagotto.exe"
             ],
-            "hash": "7625ae25f97fde9c1aa4fa0b47799911af01906813a0e63c475453494b337e4c"
+            "hash": "31f670cd31e5250e6383c238cac8b462f644ef58da5bb79db10f0dccd754f320"
         },
         "arm64": {
             "url": "https://github.com/spore-host/spore-host/releases/download/v0.34.8/lagotto_0.34.8_windows_arm64.tar.gz",
             "bin": [
                 "lagotto.exe"
             ],
-            "hash": "a56867c41520c8ac6d020c72a2fe9d1627c5beaf099ed17aa14d50d4199fe7d0"
+            "hash": "c7c12dec237aa8efcb89a198ae4931e6ae08a47422093b9d8184957e81fbb696"
         }
     },
     "homepage": "https://github.com/spore-host/spore-host",
