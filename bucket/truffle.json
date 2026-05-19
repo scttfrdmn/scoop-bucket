@@ -1,22 +1,22 @@
 {
-    "version": "0.33.0",
+    "version": "0.34.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/scttfrdmn/spore-host/releases/download/v0.33.0/truffle_0.33.0_windows_amd64.tar.gz",
+            "url": "https://github.com/spore-host/spore-host/releases/download/v0.34.1/truffle_0.34.1_windows_amd64.tar.gz",
             "bin": [
                 "truffle.exe"
             ],
-            "hash": "8712cbb9459f418ee4a7830ad4bb548bcb3dcecbc338925f270901f71d34135b"
+            "hash": "ed227baa64a06ad240deca537ecd92e48bf02ad68be21d60b886b2921a196d95"
         },
         "arm64": {
-            "url": "https://github.com/scttfrdmn/spore-host/releases/download/v0.33.0/truffle_0.33.0_windows_arm64.tar.gz",
+            "url": "https://github.com/spore-host/spore-host/releases/download/v0.34.1/truffle_0.34.1_windows_arm64.tar.gz",
             "bin": [
                 "truffle.exe"
             ],
-            "hash": "0c34f6dc1e7b1b7c6fad462574cc0c6753c406836302efe11fc8357d08ae851c"
+            "hash": "fbd7bedaaaa1a553942a39c85e572c3cfbd6fc378a6d74ce288e6833763b9dad"
         }
     },
-    "homepage": "https://github.com/scttfrdmn/spore-host",
+    "homepage": "https://github.com/spore-host/spore-host",
     "license": "Apache-2.0",
     "description": "Find and discover AWS EC2 instance types"
 }
