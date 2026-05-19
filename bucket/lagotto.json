@@ -1,25 +1,25 @@
 {
-    "version": "0.33.0",
+    "version": "0.34.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/scttfrdmn/spore-host/releases/download/v0.33.0/lagotto_0.33.0_windows_amd64.tar.gz",
+            "url": "https://github.com/spore-host/spore-host/releases/download/v0.34.1/lagotto_0.34.1_windows_amd64.tar.gz",
             "bin": [
                 "lagotto.exe"
             ],
-            "hash": "7530c35a5f9b749016ef77f3a9bf443f79b89b6d4e5ad62bd6147908d7cbc14f"
+            "hash": "44b70ab07d15aae51420ea93460cfd87d2dc3b449054e0a79093452416942df5"
         },
         "arm64": {
-            "url": "https://github.com/scttfrdmn/spore-host/releases/download/v0.33.0/lagotto_0.33.0_windows_arm64.tar.gz",
+            "url": "https://github.com/spore-host/spore-host/releases/download/v0.34.1/lagotto_0.34.1_windows_arm64.tar.gz",
             "bin": [
                 "lagotto.exe"
             ],
-            "hash": "d9f3be0bfdb6ae8249a3ead9dee7a3ace14ef05b3a5fedaa753f6a7bc1352bf0"
+            "hash": "6bb632d5a4b74908e469749954bf86b487c05a0405a8048209ba7cd1edcbe800"
         }
     },
-    "homepage": "https://github.com/scttfrdmn/spore-host",
+    "homepage": "https://github.com/spore-host/spore-host",
     "license": "Apache-2.0",
     "description": "Watch for EC2 instance capacity across regions",
     "depends": [
-        "scttfrdmn/truffle"
+        "spore-host/truffle"
     ]
 }
