@@ -1,19 +1,19 @@
 {
-    "version": "0.34.9",
+    "version": "0.34.10",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/spore-host/spore-host/releases/download/v0.34.9/spore-host-mcp_0.34.9_windows_amd64.tar.gz",
+            "url": "https://github.com/spore-host/spore-host/releases/download/v0.34.10/spore-host-mcp_0.34.10_windows_amd64.tar.gz",
             "bin": [
                 "spore-host-mcp.exe"
             ],
-            "hash": "f68499cbba0c90877f78ddddc57f9bf280bd7aac9f0a2d97c3a060d96b6e0b29"
+            "hash": "709b40312abb88a5c29b1cb88e6959abc83d62ca4a0638dc2df52380c2231607"
         },
         "arm64": {
-            "url": "https://github.com/spore-host/spore-host/releases/download/v0.34.9/spore-host-mcp_0.34.9_windows_arm64.tar.gz",
+            "url": "https://github.com/spore-host/spore-host/releases/download/v0.34.10/spore-host-mcp_0.34.10_windows_arm64.tar.gz",
             "bin": [
                 "spore-host-mcp.exe"
             ],
-            "hash": "6bcc4db5c3bdbe3cfa3a82a9981801b9fbcfc18061b303ec2181bd9505155b49"
+            "hash": "fed8f43014adf042cbaa37896007b83c2b9744f2e50e7529c5cec6498fb202fe"
         }
     },
     "homepage": "https://github.com/spore-host/spore-host",
