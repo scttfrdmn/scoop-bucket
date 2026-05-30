@@ -14,6 +14,7 @@ scoop install <app>
 | App | Description |
 |-----|-------------|
 | `prism` | Project scaffolding and template management |
+| `cargoship` | Enterprise data archiving for AWS |
 | `cicada` | CI/CD utility |
 | `aws-jupyter` | Launch Jupyter on AWS |
 | `aws-rstudio` | Launch RStudio on AWS |
