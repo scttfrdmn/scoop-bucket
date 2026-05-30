@@ -13,9 +13,7 @@ scoop install <app>
 
 | App | Description |
 |-----|-------------|
-| `cloudworkstation` | Cloud-based development workstations on AWS |
 | `prism` | Project scaffolding and template management |
-| `cargoship` | Container deployment tooling |
 | `cicada` | CI/CD utility |
 | `aws-jupyter` | Launch Jupyter on AWS |
 | `aws-rstudio` | Launch RStudio on AWS |
