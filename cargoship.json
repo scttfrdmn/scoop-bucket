@@ -1,15 +1,15 @@
 {
-    "version": "0.22.0",
+    "version": "0.23.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/scttfrdmn/cargoship/releases/download/v0.22.0/cargoship_0.22.0_windows_x86_64.tar.gz",
+            "url": "https://github.com/scttfrdmn/cargoship/releases/download/v0.23.0/cargoship_0.23.0_windows_x86_64.tar.gz",
             "bin": [
                 "cargoship.exe"
             ],
-            "hash": "decfa30614c3d2c30bc198b44f6ce2c082554901ca809b8809466d2ce93d20e4"
+            "hash": "d39c5959e2117a6291557db34e0a4fa8e6417756b9f395f81e5c818a2c9b199b"
         }
     },
     "homepage": "https://github.com/scttfrdmn/cargoship",
-    "license": "MIT",
+    "license": "Apache-2.0",
     "description": "High-performance S3 upload tool with intelligent sharding and compression"
 }
