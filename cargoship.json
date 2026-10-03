@@ -1,12 +1,12 @@
 {
-    "version": "0.35.1",
+    "version": "0.36.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/scttfrdmn/cargoship/releases/download/v0.35.1/cargoship_0.35.1_windows_x86_64.tar.gz",
+            "url": "https://github.com/scttfrdmn/cargoship/releases/download/v0.36.0/cargoship_0.36.0_windows_x86_64.tar.gz",
             "bin": [
                 "cargoship.exe"
             ],
-            "hash": "b1299d6aa040d649243a49675a0d379b8f8a479359f749b700029930ca2ad146"
+            "hash": "8629a0ec990521a18326b732af56ac6ed12ac497c0760b6e2a4f9b4c95aa7eb6"
         }
     },
     "homepage": "https://github.com/scttfrdmn/cargoship",
