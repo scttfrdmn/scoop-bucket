@@ -6,14 +6,14 @@
             "bin": [
                 "aws-elastic-gcs-ctl.exe"
             ],
-            "hash": "48f4d4f84236b9dbb4e316ecf40006f3a6859ebd09bbaab75751cb38770d0007"
+            "hash": "7b1bf1cb3ccd5a0ab16fd5ad800b3ece3e74dcd830a865ae052372d6ac83c318"
         },
         "arm64": {
             "url": "https://github.com/scttfrdmn/aws-elastic-gcs/releases/download/v0.13.0/aws-elastic-gcs-ctl_0.13.0_windows_arm64.zip",
             "bin": [
                 "aws-elastic-gcs-ctl.exe"
             ],
-            "hash": "d7a9bd6a65f9d7143aa5e9b9360bd7a8014d80cdb4d0067a37d4d6da1d21e259"
+            "hash": "38458a7c6f1444737dd0d75fb1351f22e83557cfb11ddea24fb80c8d429cbf43"
         }
     },
     "homepage": "https://scttfrdmn.github.io/aws-elastic-gcs/",
