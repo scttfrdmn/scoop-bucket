@@ -1,12 +1,12 @@
 {
-    "version": "0.6.0",
+    "version": "0.7.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/scttfrdmn/inkcap/releases/download/v0.6.0/inkcap_0.6.0_windows_amd64.zip",
+            "url": "https://github.com/scttfrdmn/inkcap/releases/download/v0.7.0/inkcap_0.7.0_windows_amd64.zip",
             "bin": [
                 "inkcap.exe"
             ],
-            "hash": "df282fa1f01c544da1a385d6ac18114c760dfdf605dd3900cf51103f8876ae7b"
+            "hash": "0ff130dc72612444ce4059ea4cd1802de267aaf3f393f1368bf747e349801a00"
         }
     },
     "homepage": "https://github.com/scttfrdmn/inkcap",
